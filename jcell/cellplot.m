@@ -65,7 +65,7 @@ function[h]=cellplot(varargin)
 %   Usage: cellplot(x)
 %          cellplot(x,y)
 %          h=cellplot(x,y,index,'m_map');
-%          cellplot(lono,lat,lon,index);
+%          cellplot(lono,lon,lat,index);
 %   __________________________________________________________________
 %   This is part of JLAB --- type 'help jlab' for more information
 %   (C) 2008--2014 J.M. Lilly --- type 'help jlab_license' for details
