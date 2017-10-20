@@ -61,7 +61,7 @@ function[varargout]=spheresort(varargin)
 %   [DS,XS,YS,INDEX]=SPHERESORT(LAT,LON,1:LENGTH(LAT(:)),LATO,LONO,CUTOFF).
 %   _________________________________________________________________
 %  
-%   Parellel algorithm
+%   Parallel algorithm
 %
 %   With Matlab's Parallel Computing Toolbox installed, SPHERESORT can 
 %   take advantage of multiple cores to speed up operations.
